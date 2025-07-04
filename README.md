@@ -1,2 +1,2 @@
 # Delta123
-this is a git and git hub
+this is a git and git hub.
